@@ -1,6 +1,6 @@
 Olá! Eu sou a Gabrielle Reis 👋
 
-- 🔭 Buscando oportunidade na área de Análise de Dados
+- 🔭 Atuando como Analista de Dados
 - 🌱 Atualmente estudando Python
 - 😄 Pronomes: ela/dela
 
